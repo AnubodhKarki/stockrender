@@ -2,7 +2,6 @@ import requests
 import streamlit as st
 from streamlit_lottie import st_lottie
 import yfinance as yf
-import matplotlib.pyplot as plt
 import pandas as pd
 import plotly.graph_objects as go
 from datetime import date, datetime, timedelta
